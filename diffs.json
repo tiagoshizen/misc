@@ -1,0 +1,17 @@
+{
+	"file": "https://drive.google.com/file/d/1caOJq8wBBOytBC_1kI_Vc18aYdrDAHtM/view?usp=sharing",
+	"name": "Entretiens TestDiff",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name" },
+		{ "type": "float", "index": 1, "name": "prof" },
+		{ "type": "float", "index": 2, "name": "class" },
+	],
+	"sets": [
+		{ "format": "binary", "start": 3, "end": 12 }
+	]
+}
+
+
