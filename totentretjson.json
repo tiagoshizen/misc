@@ -1,0 +1,20 @@
+{
+	"file": "https://raw.githubusercontent.com/tiagoshizen/misc/master/totentret.csv",
+	"name": "Entretiens TestTot",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name" },
+		{ "type": "string", "index": 26, "name": "25ref" },
+		{ "type": "string", "index": 27, "name": "secteur" },
+		{ "type": "string", "index": 28, "name": "sexe" },
+    { "type": "string", "index": 29, "name": "etude" },
+    { "type": "float", "index": 30, "name": "etudescale", "min": 1, "max": 4 },
+    { "type": "string", "index": 31, "name": "age" },
+    { "type": "float", "index": 32, "name": "agescale", "min": 1, "max": 3 }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 25 }
+	]
+}
