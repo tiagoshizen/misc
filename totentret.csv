@@ -1,0 +1,21 @@
+Name;04ecopay;05grandmoyen;06divcompet;07intacproj;10ecologique;11visuelle;13refluxres;14reflplusespeces;15usagimpactenv;16usagoutilrest;17benefqualivie;18beneficeservice;20rpayvalpatrnatu;21rpaydvptour;22epayoutildial;23rpc;24vuepcmilieu;27propprivefrein;28diffrallacteur;29diffdefref;30diffdefpaycul;31difffiger;32diffdegradpayfonc;39rpcmanqueconn;40rpcbesoinmeth;25ref;secteur;sexe;etude;etudescale;age;agescale
+e1;1;1;1;0;1;0;0;1;1;1;1;1;0;1;0;1;1;1;0;0;0;0;0;0;0;ne;Bureau etude;m;bac+5;3;[50_60[;3
+e2;0;0;0;1;1;1;1;0;1;0;1;0;0;0;0;1;1;1;1;1;0;0;1;0;0;inutilisation;Bureau etude;m;bac+5;3;[40_50[;2
+e3;1;0;0;1;1;0;1;0;1;1;1;1;0;1;0;0;0;0;0;0;1;0;0;1;0;inutilisation;Chercheur;m;bac+8;4;[40_50[;2
+e4;1;0;1;1;1;1;1;0;1;0;1;0;0;0;0;1;1;0;1;0;0;0;0;0;0;inutilisation;Gestionnaire;m;bac+5;3;[40_50[;2
+e5;1;1;0;1;1;1;1;0;1;1;1;0;0;0;0;1;0;0;0;0;1;0;0;0;0;archive;Gestionnaire;m;bac+5;3;[40_50[;2
+e6;0;0;1;1;1;1;1;1;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;1;ne;Gestionnaire;m;bac+8;4;[30_40[;1
+e7;1;1;1;1;1;1;1;0;1;1;1;1;1;1;1;0;1;0;0;0;0;0;0;0;0;concertation;Gestionnaire;m;bac+5;3;[40_50[;2
+e8;0;1;0;1;1;0;1;0;1;1;0;1;0;1;0;1;1;0;0;1;0;1;0;0;0;concertation;Gestionnaire;f;bac+5;3;[40_50[;2
+e9;1;0;1;1;1;1;0;1;1;1;1;0;0;0;0;1;1;0;0;1;1;1;0;0;0;concertation;Gestionnaire;m;bac+5;3;[40_50[;2
+e10;1;0;1;1;1;0;1;0;1;1;1;0;1;0;0;0;1;1;0;1;1;0;0;0;0;concertation;Gestionnaire;m;bac+5;3;[40_50[;2
+e11;0;1;0;1;1;1;1;1;1;1;1;0;1;1;0;0;1;1;0;1;1;1;0;0;0;archive;Chercheur;m;bac+8;4;[30_40[;1
+e12;0;1;1;1;1;1;1;0;1;1;1;0;0;0;0;0;1;0;0;0;1;0;0;0;0;concertation;Chercheur;f;bac+8;4;[40_50[;2
+e13;1;1;1;1;0;1;1;0;0;0;0;0;0;0;0;1;1;1;1;0;1;0;0;0;0;ne;Gestionnaire;m;bac;1;[50_60[;3
+e14;1;0;1;1;1;1;0;0;1;1;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;ne;Gestionnaire;m;bac+8;4;[50_60[;3
+e15;1;1;1;1;1;0;1;0;1;1;1;1;0;0;0;0;1;0;0;1;0;1;0;0;0;concertation;Gestionnaire;f;bac+8;4;[50_60[;3
+e16;1;1;1;1;1;0;1;0;1;1;1;0;1;0;0;1;1;1;0;0;0;0;0;0;0;inutilisation;Chercheur;m;bac+8;4;[50_60[;3
+e17;1;0;0;1;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;1;1;1;0;0;concertation;Gestionnaire;m;bac+5;3;[40_50[;2
+e18;1;0;1;1;1;1;1;0;0;0;1;1;0;0;0;0;0;0;0;1;1;0;0;0;0;ne;Bureau etude;f;bac+5;3;[30_40[;1
+e19;1;0;0;1;1;1;0;1;1;0;1;0;0;1;0;1;1;0;0;1;1;0;0;0;0;archive;Gestionnaire;m;bac+8;4;[40_50[;2
+e20;1;1;0;1;1;0;1;0;1;1;1;1;0;1;0;1;1;1;0;0;0;0;1;0;0;archive;Gestionnaire;f;bac+8;4;[50_60[;3
