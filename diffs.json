@@ -6,8 +6,8 @@
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "Name" },
-		{ "type": "float", "index": 1, "name": "prof" },
-		{ "type": "float", "index": 2, "name": "class" },
+		{ "type": "float", "index": 1, "name": "profis" },
+		{ "type": "float", "index": 2, "name": "class123" },
 	],
 	"sets": [
 		{ "format": "binary", "start": 3, "end": 12 }
