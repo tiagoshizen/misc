@@ -8,7 +8,7 @@
 		{ "type": "id", "index": 0, "name": "Name" },
 		{ "type": "float", "index": 1, "name": "prof" },
 		{ "type": "float", "index": 2, "name": "class" },
-	]
+	],
 	"sets": [
 		{ "format": "binary", "start": 3, "end": 12 }
 	]
